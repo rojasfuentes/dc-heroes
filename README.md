@@ -7,3 +7,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ### Actuaslizado desde GitHub
+Mariwas siempre loco
+Wiwi Dios
